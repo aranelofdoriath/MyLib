@@ -6,9 +6,10 @@ def build_echo() {
 def build_input() {
         input 'Waiting for your orders, massssster'
 }
-
+/*
 class MyLib {
 	int summ(int a, int b) {
 		return a+b
 	}
 }
+*/
